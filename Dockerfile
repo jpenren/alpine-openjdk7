@@ -1,5 +1,5 @@
 FROM alpine:latest
 
-MAINTAINER javiprendo@gmail.com
+MAINTAINER Javier Pena
 
 RUN apk --update add openjdk7-jre
