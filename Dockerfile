@@ -2,4 +2,4 @@ FROM alpine:latest
 
 MAINTAINER Javier Pena
 
-RUN apk --update add openjdk7-jdk
+RUN apk --update add openjdk7
